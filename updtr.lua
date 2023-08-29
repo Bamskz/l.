@@ -1,5 +1,5 @@
 local Updating = {}
 
-getgenv().Updating = true
+getgenv().Updating = false
 
 return Updating 
